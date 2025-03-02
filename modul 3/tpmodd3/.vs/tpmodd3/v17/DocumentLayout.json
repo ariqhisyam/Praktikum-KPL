@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\A. KPL 2025\\praktikum_kpl\\modul 3\\tpmodd3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AFAE8E-F32E-47E3-A815-8FC0CBBB70A2}|tpmodd3\\tpmodd3.csproj|e:\\a. kpl 2025\\praktikum_kpl\\modul 3\\tpmodd3\\tpmodd3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AFAE8E-F32E-47E3-A815-8FC0CBBB70A2}|tpmodd3\\tpmodd3.csproj|solutionrelative:tpmodd3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AFAE8E-F32E-47E3-A815-8FC0CBBB70A2}|tpmodd3\\tpmodd3.csproj|e:\\a. kpl 2025\\praktikum_kpl\\modul 3\\tpmodd3\\tpmodd3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AFAE8E-F32E-47E3-A815-8FC0CBBB70A2}|tpmodd3\\tpmodd3.csproj|solutionrelative:tpmodd3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AFAE8E-F32E-47E3-A815-8FC0CBBB70A2}|tpmodd3\\tpmodd3.csproj|e:\\a. kpl 2025\\praktikum_kpl\\modul 3\\tpmodd3\\tpmodd3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0AFAE8E-F32E-47E3-A815-8FC0CBBB70A2}|tpmodd3\\tpmodd3.csproj|solutionrelative:tpmodd3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\A. KPL 2025\\praktikum_kpl\\modul 3\\tpmodd3\\tpmodd3\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "tpmodd3\\Form1.Designer.cs",
+              "ToolTip": "E:\\A. KPL 2025\\praktikum_kpl\\modul 3\\tpmodd3\\tpmodd3\\Form1.Designer.cs",
+              "RelativeToolTip": "tpmodd3\\Form1.Designer.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T09:21:09.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\A. KPL 2025\\praktikum_kpl\\modul 3\\tpmodd3\\tpmodd3\\Form1.cs",
+              "RelativeDocumentMoniker": "tpmodd3\\Form1.cs",
+              "ToolTip": "E:\\A. KPL 2025\\praktikum_kpl\\modul 3\\tpmodd3\\tpmodd3\\Form1.cs",
+              "RelativeToolTip": "tpmodd3\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T09:17:05.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\A. KPL 2025\\praktikum_kpl\\modul 3\\tpmodd3\\tpmodd3\\Form1.cs",
+              "RelativeDocumentMoniker": "tpmodd3\\Form1.cs",
+              "ToolTip": "E:\\A. KPL 2025\\praktikum_kpl\\modul 3\\tpmodd3\\tpmodd3\\Form1.cs [Design]",
+              "RelativeToolTip": "tpmodd3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T09:15:42.721Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
